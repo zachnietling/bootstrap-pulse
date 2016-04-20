@@ -13,3 +13,5 @@ pulse-warning
 pulse-danger  
 pulse-default  
 pulse-success  
+
+You may use this as you wish, no need to credit the author. 
