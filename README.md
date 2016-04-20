@@ -1,5 +1,5 @@
 # bootstrap-pulse
-CSS pulse animation effects for Twitter Bootstrap buttons
+CSS pulse animation effects for Twitter Bootstrap buttons (works for many other elements also)
 
 Example may be seen at https://jsfiddle.net/u6f5phz3/3/
 
